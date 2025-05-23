@@ -19,7 +19,7 @@ Welcome to the SMS Spam Script, a sleek Python tool designed for speed, simplici
 - twilio Python package (pip install twilio)
 - A registered Twilio account with an active phone number
 
-## 🚀 Installation
+## 🚀 Installation | Termux
 
 ```bash
 git clone https://github.com/blei920/Sms-spam.git
