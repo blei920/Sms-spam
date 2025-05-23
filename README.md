@@ -1,2 +1,28 @@
-# Sms-spam
-⚠️ SMS Spam Script | For Fun. For Chaos. 📲 A sharp, no-frills SMS spam script built to flood a target number with messages. Whether you're stress testing or just stirring the pot, this tool delivers. Lightweight, fast, and dangerously effective. Use it wisely, or don't. Just know what you're getting into.
+# 🚀 SMS Spam Script - Lightweight, Fast, and Powerful 📲
+
+Welcome to the SMS Spam Script, a sleek Python tool designed for speed, simplicity, and effective SMS spamming. Whether you're stress-testing a phone number, experimenting with Twilio APIs, or building a messaging automation prototype, this script is your weapon of choice.
+
+> Warning: This tool is for educational and ethical testing purposes only. Do not use it for harassment or unauthorized access. Always comply with local laws and Twilio’s terms of service.
+
+## ✨ Features
+
+- ⚡ Ultra Lightweight: Minimal dependencies, runs fast and smooth on any Python 3.x environment
+- ✉️ Custom or Encrypted Messages: Choose to send your own message or auto-generate a random 15-character encrypted string for each SMS
+- 🔁 Rapid Message Looping: Spam multiple messages at high speeds
+- 🌐 Twilio API Support: Fully integrated with Twilio, making SMS delivery reliable and easy to manage
+- 🛠 Simple Configuration: Just plug in your Twilio credentials and you're good to go
+- 🧪 Great for Stress Testing: Simulate real-world messaging conditions for testing applications or systems
+
+## ⚙️ Requirements
+
+- Python 3.x
+- twilio Python package (pip install twilio)
+- A registered Twilio account with an active phone number
+
+## 🚀 Installation
+
+```bash
+git clone https://github.com/blei920/Sms-spam.git
+cd Sms-spam
+python sms.py
+```
