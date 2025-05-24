@@ -4,6 +4,14 @@ Welcome to the SMS Spam Script, a sleek Python tool designed for speed, simplici
 
 > Warning: This tool is for educational and ethical testing purposes only. Do not use it for harassment or unauthorized access. Always comply with local laws and Twilio’s terms of service.
 
+## Ethical Considerations and Legal Disclaimer ⚠️
+
+This script is intended solely for educational purposes and authorized security assessments. Any use without explicit permission on servers or networks is strictly prohibited, unlawful, and unethical. Unauthorized activities may lead to significant legal consequences and cause substantial harm.
+
+Users bear full responsibility for ensuring adherence to all relevant laws and obtaining explicit authorization prior to any testing.
+
+The author disclaims all liability for any misuse, damages, or legal issues resulting from the use of this script. Use with caution and at your own risk. ⚠️
+
 ## ✨ Features
 
 - ⚡ Ultra Lightweight: Minimal dependencies, runs fast and smooth on any Python 3.x environment
