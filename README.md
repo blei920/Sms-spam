@@ -7,7 +7,7 @@ Welcome to the SMS Spam Script, a sleek Python tool designed for speed, simplici
 ## ✨ Features
 
 - ⚡ Ultra Lightweight: Minimal dependencies, runs fast and smooth on any Python 3.x environment
-- ✉️ Custom or Encrypted Messages: Choose to send your own message or auto-generate a random 15-character encrypted string for each SMS
+- ✉️ Custom or Encrypted Messages: Choose to send your own message or auto-generate a random 20-character encrypted string for each SMS
 - 🔁 Rapid Message Looping: Spam multiple messages at high speeds
 - 🌐 Twilio API Support: Fully integrated with Twilio, making SMS delivery reliable and easy to manage
 - 🛠 Simple Configuration: Just plug in your Twilio credentials and you're good to go
