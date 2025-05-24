@@ -6,11 +6,11 @@ Welcome to the SMS Spam Script, a sleek Python tool designed for speed, simplici
 
 ## Ethical Considerations and Legal Disclaimer ⚠️
 
-This script is intended solely for educational purposes and authorized security assessments. Any use without explicit permission on servers or networks is strictly prohibited, unlawful, and unethical. Unauthorized activities may lead to significant legal consequences and cause substantial harm.
+This script is intended solely for educational purposes and authorized security assessments. Any use without explicit permission for testing SMS systems is strictly prohibited, unlawful, and unethical. Unauthorized activities may violate privacy laws, lead to serious legal consequences, and cause harm to individuals or organizations.
 
-Users bear full responsibility for ensuring adherence to all relevant laws and obtaining explicit authorization prior to any testing.
+Users bear full responsibility for ensuring compliance with all applicable laws and obtaining clear authorization before conducting any testing.
 
-The author disclaims all liability for any misuse, damages, or legal issues resulting from the use of this script. Use with caution and at your own risk. ⚠️
+The author disclaims all liability for any misuse, damages, or legal issues resulting from the use of this script. Use responsibly and at your own risk. ⚠️
 
 ## ✨ Features
 
